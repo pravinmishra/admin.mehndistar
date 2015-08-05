@@ -1,0 +1,23 @@
+{
+  "name": "admin.mehndistar",
+  "version": "0.0.1",
+  "description": "manage users and posts of mehndistar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pravinmishra/admin.mehndistar.git"
+  },
+  "author": "Pravin Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pravinmishra/admin.mehndistar/issues"
+  },
+  "homepage": "https://github.com/pravinmishra/admin.mehndistar",
+  "dependencies": {
+    "express": "^4.13.3",
+    "path": "^0.11.14"
+  }
+}
